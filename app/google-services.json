@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "319191239543",
+    "firebase_url": "https://boss0426-f0490-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "boss0426-f0490",
+    "storage_bucket": "boss0426-f0490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319191239543:android:74ee974280adda2eb46f72",
+        "android_client_info": {
+          "package_name": "com.billcoreatech.boss0426"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319191239543-17hoir52svh0dp0lp3gmnpnd59ehobo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billcoreatech.boss0426",
+            "certificate_hash": "5c4d09742aef4c47494fded33962ce287d34e97d"
+          }
+        },
+        {
+          "client_id": "319191239543-6fl3ask6on0vb62td4tiounum4vmbfpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billcoreatech.boss0426",
+            "certificate_hash": "fae7fdaad3270e37570ffa059ad0003981976f9a"
+          }
+        },
+        {
+          "client_id": "319191239543-ocs2g36fucdav4tt8ua6sqc8r7p9boae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billcoreatech.boss0426",
+            "certificate_hash": "205cf3404dfce8976053656752c7049c7035dc0b"
+          }
+        },
+        {
+          "client_id": "319191239543-vmaf2r34j7lu01jnq2d1m8e2sa6oo10d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF_SGv2ntHWNKthqlBguPfFI1TVGIsohA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319191239543-vmaf2r34j7lu01jnq2d1m8e2sa6oo10d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319191239543:android:3bc4d6ff5a7c57a1b46f72",
+        "android_client_info": {
+          "package_name": "com.billcoreatech.remotepayment0119"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319191239543-erdhtd8lt6l05q7oj3o9dpqaif1m6l0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billcoreatech.remotepayment0119",
+            "certificate_hash": "fae7fdaad3270e37570ffa059ad0003981976f9a"
+          }
+        },
+        {
+          "client_id": "319191239543-vmaf2r34j7lu01jnq2d1m8e2sa6oo10d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF_SGv2ntHWNKthqlBguPfFI1TVGIsohA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319191239543-vmaf2r34j7lu01jnq2d1m8e2sa6oo10d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

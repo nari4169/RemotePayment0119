@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RemotePayment0119" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/softBlue</item>
+        <item name="colorPrimary">@color/softBlue</item>
+        <item name="android:textColor">@color/softBlue</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Remote Payment</string>
+    <string name="Email" translatable="false">Email</string>
+    <string name="EnterEmail">Enter Email</string>
+    <string name="Password" translatable="false">Password</string>
+    <string name="EnterPassword">Enter Password</string>
+    <string name="welCome">WelCome!</string>
+    <string name="forGotPassword">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="notMember">not a Member?</string>
+    <string name="registerNow">Register now</string>
+    <string name="orContinueWith">Or continue with</string>
+    <string name="msgUserIdOrPasswordError">Email or Password is invalid</string>
+    <string name="msgSendEmailForResetPassword">Email to change your password has been sent.</string>
+    <string name="msgPasswordResetFailure">Please try changing your password again</string>
+    <string name="SingupUser">Signup</string>
+    <string name="msgPasswordCheckError">The passwords entered are different. Please enter again</string>
+    <string name="msgCreateUserFailure">An error occurred during user registration.</string>
+    <string name="msgCreateUserCompleted">User registration is complete.</string>
+    <string name="msgSigninCompleted">Sign in Completed</string>
+    <string name="titleFailure">Action Failure</string>
+    <string name="OK">OK</string>
+    <string name="msgDownloadTranslate">Download Translate Completed</string>
+    <string name="msgFailureCommon">Action Failure</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="msgBeginDownload">Begin Language Model Download</string>
+    <string name="client_id" translatable="false">319191239543-vmaf2r34j7lu01jnq2d1m8e2sa6oo10d.apps.googleusercontent.com</string>
+    <string name="msgSentLoginEmail">sent for login to email link</string>
+</resources>

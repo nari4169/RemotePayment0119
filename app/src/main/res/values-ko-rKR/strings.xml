@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">리모트 페이</string>
+    <string name="EnterEmail">이메일 주소를 입력 하세요</string>
+    <string name="EnterPassword">비밀 번호를 입력 하세요</string>
+    <string name="welCome">반갑습니다!</string>
+    <string name="forGotPassword">비밀번호를 잊으셨나요?</string>
+    <string name="login">로그인</string>
+    <string name="notMember">회원이 아니신가요?</string>
+    <string name="registerNow">지금 등록 하세요</string>
+    <string name="orContinueWith">아니면 소셜 로그인을 시작하세요</string>
+    <string name="msgUserIdOrPasswordError">이메일 주소 또는 비밀번호가 올바르지 않습니다.</string>
+    <string name="msgSendEmailForResetPassword">비밀번호 변경을 위한 이메일 발송이 완료 되었습니다.</string>
+    <string name="msgPasswordResetFailure">비밀번호 변경을 다시 시도해 주세요</string>
+    <string name="SingupUser">가입하기</string>
+    <string name="msgPasswordCheckError">입력한 비밀번호가 서로 다릅니다. 다시 입력 하세요</string>
+    <string name="msgCreateUserFailure">사용자 등록시 오류가 발생 했습니다.</string>
+    <string name="msgCreateUserCompleted">"사용자 등록이 완료 되었습니다. "</string>
+    <string name="msgSigninCompleted">로그인이 완료 되었습니다.</string>
+    <string name="titleFailure">에러 안내 메시지</string>
+    <string name="OK">OK</string>
+    <string name="msgDownloadTranslate">언어 번역이 완료 되었습니다.</string>
+    <string name="msgFailureCommon">실행중 오류가 발생 하였습니다.</string>
+    <string name="unknown_error">알 수 없는 오류</string>
+    <string name="msgBeginDownload">한국어 모듈 다운로드가 시작 되었습니다.</string>
+    <string name="msgSentLoginEmail">로그인할 수 있도록 이메일을 보냈습니다.</string>
+</resources>
