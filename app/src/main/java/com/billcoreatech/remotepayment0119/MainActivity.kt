@@ -510,7 +510,7 @@ class MainActivity : ComponentActivity() {
         var hashKey : String? = null
         try {
             val info : PackageInfo = context.packageManager.getPackageInfo(context.packageName, PackageManager.GET_SIGNATURES)
-            for (signature in info.signatures) {
+            for (signature in info.signatures!!) {
                 var md : MessageDigest = MessageDigest.getInstance("SHA")
                 md.update(signature.toByteArray())
                 hashKey = String(Base64.encode(md.digest(), 0))
